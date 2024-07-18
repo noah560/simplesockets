@@ -1,0 +1,4 @@
+FORMAT = "utf-8"
+DISCONNECT = "DISCONNECT"
+SPECIAL = "!"
+NORMAL = ">"
